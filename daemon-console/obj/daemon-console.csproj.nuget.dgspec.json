@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\daemon-console.csproj": {}
+    "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\daemon-console.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\daemon-console.csproj": {
+    "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\daemon-console.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\daemon-console.csproj",
+        "projectUniqueName": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\daemon-console.csproj",
         "projectName": "daemon-console",
-        "projectPath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\daemon-console.csproj",
+        "projectPath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\daemon-console.csproj",
         "packagesPath": "C:\\Users\\Lamattina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\obj\\",
+        "outputPath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

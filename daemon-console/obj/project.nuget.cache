@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NnlzpYkJX9cPWVy4cFEbxOQHIs8YskTNRfCYfwM+klaOuLp52KrcEML34imso5p+O1AUfiapcDSJe1ydXInycw==",
+  "dgSpecHash": "HHwniER8oYYRiO4IS4A12p6Na9SJyds31YIPyT6Q4Tpi0/xf/OvoXD3SlLQtpJPx4BNnl0TvSX06xKJO2xUGfQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\1-Call-MSGraph\\daemon-console\\daemon-console.csproj",
+  "projectFilePath": "C:\\Users\\Lamattina\\Downloads\\active-directory-dotnetcore-daemon-v2-master\\TESTE\\azauth\\daemon-console\\daemon-console.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lamattina\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
     "C:\\Users\\Lamattina\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
